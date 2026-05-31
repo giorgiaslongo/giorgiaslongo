@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f7,45:f8a8d8,100:db4c9f&height=205&section=header&text=Giorgia%20Slongo&fontSize=44&fontColor=5a1744&fontAlignY=40&desc=Bilingual%20Content%20QA%20%C2%B7%20Editorial%20QA%20%C2%B7%20Localization%20QA&descSize=17&descAlignY=63&descColor=7a2a5f&animation=fadeIn" alt="Giorgia Slongo"/>
 
 <p align="center">
-  <em>"I improve content by making instructions clearer, structure easier to follow, and language more consistent across audiences."</em>
+  <em>"I improve English/Portuguese content by applying educational standards, evaluating AI responses, and building structured documentation."</em>
 </p>
 
 <p align="center">
@@ -91,6 +91,7 @@ contact:           linkedin.com/in/giorgiaslongo
 
 ---
 
+<!-- 
 ## Portfolio Direction
 
 These are the kinds of public artifacts I am building toward:
@@ -103,6 +104,7 @@ These are the kinds of public artifacts I am building toward:
 | Editorial systems | Global content style guide | Consistency rules, examples, review criteria |
 | Taxonomy | Metadata/classification cleanup sample | Categorization logic, structured validation, content organization |
 | Educational content | Rubric or learning-material QA sample | Assessment alignment, pedagogical clarity, instruction quality |
+-->
 
 ---
 
@@ -121,6 +123,13 @@ These are the kinds of public artifacts I am building toward:
   <img src="https://img.shields.io/badge/Rubric--based%20Evaluation-7a2a5f?style=flat-square&color=bc3b8f" alt="Rubric Evaluation"/>
   <img src="https://img.shields.io/badge/Learning%20Content-7a2a5f?style=flat-square&color=f48bc8" alt="Learning Content"/>
   <img src="https://img.shields.io/badge/Documentation%20Quality-7a2a5f?style=flat-square&color=db4c9f" alt="Documentation Quality"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-fff0f7?style=flat-square&logo=notion&logoColor=5a1744&color=f8a8d8" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Google%20Docs%20%26%20Sheets-fff0f7?style=flat-square&logo=googledrive&logoColor=5a1744&color=f8a8d8" alt="Google Docs and Sheets"/>
+  <img src="https://img.shields.io/badge/LMS%20Platforms-fff0f7?style=flat-square&logo=canvas&logoColor=5a1744&color=f8a8d8" alt="LMS Platforms"/>
+  <img src="https://img.shields.io/badge/AI%20Annotation%20Platforms-fff0f7?style=flat-square&logo=openai&logoColor=5a1744&color=f8a8d8" alt="AI Annotation Tools"/>
 </p>
 
 ---
